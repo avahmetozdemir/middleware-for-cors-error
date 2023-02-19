@@ -17,7 +17,7 @@ This middleware is written for handling cors error which comes from making api c
 
 ### Setup
 
-- git clone `https://github.com/avahmetozdemir/middleware-for-cors-error`
+- git clone https://github.com/avahmetozdemir/middleware-for-cors-error.git
 
 #### Run Backend Application
 
